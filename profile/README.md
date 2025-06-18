@@ -2,7 +2,13 @@
 F39 is a product research and development company.
 
 > [!NOTE]
-> All public F39 projects are free to use, published under the GPLv3-license.
+> All public F39 projects are free to use, mind individual package licenses.
+
+Contributions are excepted on repos wheree solicited. Contact us for questions/help:
+
+[http](https://www.f39.design/)
+
+Matt: mq@f39.design
 
 <!--
 **Here are some ideas to get you started:**
