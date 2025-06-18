@@ -4,7 +4,7 @@ F39 is a product research and development company.
 > [!NOTE]
 > All public F39 projects are free to use, mind individual package licenses.
 
-Contributions are excepted on repos wheree solicited. Contact us for questions/help:
+Contributions are excepted on repos where solicited. Contact us for questions/help:
 
 [http](https://www.f39.design/)
 
